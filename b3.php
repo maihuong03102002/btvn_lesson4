@@ -8,7 +8,5 @@ function checkEvenOrOddYear() {
         return "Odd Year";
     }
 }
-
-// Kiểm tra năm hiện tại là năm chẵn hay năm lẻ
 $result = checkEvenOrOddYear();
 echo "Current year is $result.";
